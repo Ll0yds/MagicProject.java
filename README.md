@@ -1,3 +1,3 @@
 # MagicProject.java
 
-Mes premiers pas en Java.
+Quelques projets à réaliser avec les cours CodeAcademy Pro.
